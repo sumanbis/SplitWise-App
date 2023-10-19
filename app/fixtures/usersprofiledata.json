@@ -1,0 +1,41 @@
+[
+    {
+      "model": "app.UserProfile",
+      "pk": 1,
+      "fields": {
+        "name": "user1",
+        "email": "user1@gmail.com",
+        "mobile_number": "123456789"
+
+      }
+    },
+    {
+        "model": "app.UserProfile",
+        "pk": 2,
+        "fields": {
+          "name": "user2",
+          "email": "user2@gmail.com",
+          "mobile_number": "123456789"
+        }
+      },
+      {
+        "model": "app.UserProfile",
+        "pk": 3,
+        "fields": {
+          "name": "user3",
+          "email": "user3@gmail.com",
+          "mobile_number": "123456789"
+        }
+      },
+      {
+        "model": "app.UserProfile",
+        "pk": 4,
+        "fields": {
+          "name": "user4",
+          "email": "user4@gmail.com",
+          "mobile_number": "123456789"
+        }
+      }
+
+
+]
