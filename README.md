@@ -53,6 +53,7 @@ This document provides an overview of the Expense Sharing System, API contracts,
 - python manage.py runserver
 
 ## Usage
+- python manage.py runserver
 - Use postman
 - To add expense: 
 - `POST Api`: http://127.0.0.1:8000/app/record_expense/
@@ -86,3 +87,6 @@ This document provides an overview of the Expense Sharing System, API contracts,
         }
 
 - `GET API`: http://127.0.0.1:8000/app/balances/
+- `Admin Url`: http://127.0.0.1:8000/admin
+      - User: admin
+      - password: 123456
